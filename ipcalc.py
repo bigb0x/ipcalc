@@ -31,7 +31,7 @@ How-to Guide:
 Credit:
 
     This script was created by x.com/MohamedNab1l
-    Modified and adapted for educational and informational purposes.
+    https://github.com/bigb0x/ipcalc/
 ''' 
 import ipaddress
 
